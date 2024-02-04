@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vedansh31
 - 👀 I’m interested in developing software to help in solving real life problems.
-- 🌱 I’m currently learning: C++
+- 🌱 I’m currently learning: Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
     E-mail:- shekharojhavso781@gmail.com
